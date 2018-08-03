@@ -1,0 +1,8 @@
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\bin\Debug\GANeuroSharp1.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp1.csprojAssemblyReference.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp1.csproj.CoreCompileInputs.cache
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp1.pdb
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\bin\Debug\GANeuroSharp1.exe
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp1.exe
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp.TravellingSalesmanProblem.resources
+C:\Users\3r0rXx\Documents\Visual Studio 2017\Projects\GANeuroSharp1\GANeuroSharp1\obj\Debug\GANeuroSharp1.csproj.GenerateResource.cache
